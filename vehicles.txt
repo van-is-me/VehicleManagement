@@ -1,0 +1,2 @@
+car123, 5, red, 3, 4, common, 3
+moto523, 5, red, 2, 4, 3, yes
